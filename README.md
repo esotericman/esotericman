@@ -42,13 +42,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-Java             30 hrs 26 mins  ███████████████▒░░░░░░░░░   60.77 %
-JSON             14 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Other            3 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-TypeScript       35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Markdown         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java             29 hrs 54 mins  ██████████████▓░░░░░░░░░░   59.07 %
+JSON             14 hrs 40 mins  ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+Other            4 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+C#               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TypeScript       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
