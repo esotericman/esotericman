@@ -42,13 +42,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 26 December 2025
+From: 20 December 2025 - To: 27 December 2025
 
-Java           46 hrs 28 mins  █████████████████████░░░░   83.76 %
-Other          5 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-JSON           1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML           30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-XML            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Java              41 hrs 19 mins  ████████████████████▓░░░░   82.81 %
+Other             5 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+JSON              1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+YAML              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+XML               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
