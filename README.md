@@ -42,13 +42,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Java                 22 hrs 46 mins  ████████████████░░░░░░░░░   63.66 %
-Other                2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-TypeScript           2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-JavaScript           2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-HTML                 1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Java                 29 hrs 57 mins  ██████████████████░░░░░░░   71.91 %
+Other                2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JavaScript           2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+TypeScript           1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+HTML                 1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
