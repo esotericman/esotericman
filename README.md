@@ -42,13 +42,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 26 January 2026
+From: 20 January 2026 - To: 27 January 2026
 
-Java           51 hrs 33 mins  █████████████████████▒░░░   85.93 %
-YAML           1 hr 58 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other          1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-TypeScript     1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Markdown       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Java           56 hrs 36 mins  ██████████████████████░░░   88.30 %
+Markdown       1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+YAML           1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript     54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+SQL            44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
