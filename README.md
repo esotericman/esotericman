@@ -34,8 +34,11 @@ Backend software engineer at an AI healthcare company.
 
 - 2025
 
-Remote from China
+Working remotely as a full-stack engineer in China.
 
+- 2026
+
+Working remotely as a full-stack engineer in China.
 
 ## Github Stats
 
