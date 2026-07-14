@@ -45,13 +45,13 @@ Working remotely as a full-stack engineer in China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Java                  36 hrs 18 mins        ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-JSON                  18 hrs 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Python                15 hrs 41 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Markdown              15 hrs 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-TypeScript            12 hrs 32 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Java                  41 hrs 34 mins        ████████▓░░░░░░░░░░░░░░░░   35.22 %
+JSON                  20 hrs 30 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+TypeScript            13 hrs 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Markdown              12 hrs 42 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Python                9 hrs 42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
 <!--END_SECTION:waka-->
