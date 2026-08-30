@@ -45,13 +45,13 @@ Working remotely as a full-stack engineer in China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-JavaScript     29 hrs 52 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
-Other          23 hrs 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Markdown       18 hrs                ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Rust           12 hrs 34 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-HTML           12 hrs 5 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+JavaScript       29 hrs 8 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Other            20 hrs 4 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Markdown         18 hrs 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Rust             14 hrs 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+HTML             12 hrs 39 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
 ```
 
 <!--END_SECTION:waka-->
